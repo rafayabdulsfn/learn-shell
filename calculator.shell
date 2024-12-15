@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+
+# These are basic functionalities of a calculator
+
+
+
+
+x=a+b
+x=a-b
+x=a/b
+x=axb
